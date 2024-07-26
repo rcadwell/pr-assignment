@@ -1,0 +1,12 @@
+# Sensitive data files
+.env
+.env.local
+.env.*.local
+.env.test.local
+.env.production.local
+.env.development.local
+# Windows OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
